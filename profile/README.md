@@ -1,6 +1,6 @@
 # Open AI Grid
 
-Open AI Grid is an open initiative to build a global, distributed decentralized AI ecosystem owned bz no one and available to everyone.
+Open AI Grid aims to do for AI what the Internet did for information.
 
 ## Mission
 
